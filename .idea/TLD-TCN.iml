@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/pyOpenTLD" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/pyOpenTLD/TLD" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.5 (TLD-TCN)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

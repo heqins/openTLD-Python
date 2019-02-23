@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="492bf8be-de23-418d-a128-b6fa729d0f06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/heqin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parameters.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DetStruct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Feature.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FerNNClassifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LKTracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatchGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TLD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/run_tld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tld_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TLD-TCN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TLD-TCN.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1961034293">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="24" />
+          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.11" value="4" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="LICENSE" value="1" />
+          <entry key="jpg" value="3" />
+          <entry key="md" value="2" />
+          <entry key="py" value="130" />
+          <entry key="txt" value="2" />
+          <entry key="yml" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="3" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="130" />
+          <entry key="YAML" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="md" value="103" />
+          <entry key="py" value="61120" />
+          <entry key="txt" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="103" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Python" value="61120" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TLD-TCN" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/run_tld.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="592">
+              <caret line="82" column="16" lean-forward="true" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+              <folding>
+                <element signature="e#14#23#0" expanded="true" />
+                <marker date="1550832937812" expanded="true" signature="129:760" ph="..." />
+                <marker date="1550832937812" expanded="true" signature="157:162" ph="..." />
+                <marker date="1550832937812" expanded="true" signature="521:541" ph="..." />
+                <marker date="1550832937812" expanded="true" signature="563:568" ph="..." />
+                <marker date="1550832937812" expanded="true" signature="781:786" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TLD.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9423">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#14#44#0" expanded="true" />
+                <marker date="1550833048795" expanded="true" signature="804:806" ph="..." />
+                <marker date="1550833048795" expanded="true" signature="836:1323" ph="..." />
+                <marker date="1550833048795" expanded="true" signature="1323:1326" ph="..." />
+                <marker date="1550833048795" expanded="true" signature="2462:2467" ph="..." />
+                <marker date="1550833048795" expanded="true" signature="5811:20662" ph="..." />
+                <marker date="1550833048795" expanded="true" signature="7392:20662" ph="..." />
+                <marker date="1550833048795" expanded="true" signature="8895:8900" ph="..." />
+                <marker date="1550833048795" expanded="true" signature="14142:14143" ph="..." />
+                <marker date="1550833048795" expanded="true" signature="14586:14591" ph="..." />
+                <marker date="1550833048795" expanded="true" signature="14586:15711" ph="..." />
+                <marker date="1550833048795" expanded="true" signature="15735:15736" ph="..." />
+                <marker date="1550833048795" expanded="true" signature="18775:18780" ph="..." />
+                <marker date="1550833048795" expanded="true" signature="18775:20662" ph="..." />
+                <marker date="1550833048795" expanded="true" signature="20688:20693" ph="..." />
+                <marker date="1550833048795" expanded="true" signature="20688:21098" ph="..." />
+                <marker date="1550833048795" expanded="true" signature="21216:21221" ph="..." />
+                <marker date="1550833048795" expanded="true" signature="23741:23746" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FerNNClassifier.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
+              <folding>
+                <element signature="e#14#27#0" expanded="true" />
+                <marker date="1550832827328" expanded="true" signature="428:431" ph="..." />
+                <marker date="1550832827328" expanded="true" signature="485:490" ph="..." />
+                <marker date="1550832827328" expanded="true" signature="907:934" ph="..." />
+                <marker date="1550832827328" expanded="true" signature="961:965" ph="..." />
+                <marker date="1550832827328" expanded="true" signature="2568:2573" ph="..." />
+                <marker date="1550832827328" expanded="true" signature="3413:3418" ph="..." />
+                <marker date="1550832827328" expanded="true" signature="3845:3850" ph="..." />
+                <marker date="1550832827328" expanded="true" signature="6471:6472" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Feature.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <marker date="1550833095357" expanded="true" signature="70:323" ph="..." />
+                <marker date="1550833095357" expanded="true" signature="257:323" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tld_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#14#24#0" expanded="true" />
+                <marker date="1550471081786" expanded="true" signature="133:136" ph="..." />
+                <marker date="1550471081786" expanded="true" signature="368:371" ph="..." />
+                <marker date="1550471081786" expanded="true" signature="622:623" ph="..." />
+                <marker date="1550471081786" expanded="true" signature="637:640" ph="..." />
+                <marker date="1550471081786" expanded="true" signature="637:1041" ph="..." />
+                <marker date="1550471081786" expanded="true" signature="734:737" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parameters.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&amp;</find>
+      <find>nth_</find>
+      <find>nth_ele</find>
+      <find>random</find>
+      <find>|</find>
+      <find>learn</find>
+      <find>64</find>
+      <find>track</find>
+      <find>astype</find>
+      <find>points</find>
+      <find>Trained</find>
+      <find>integral</find>
+      <find>Cluster indexes</find>
+      <find>points1</find>
+      <find>tracked</find>
+      <find>cluster</find>
+      <find>clusterBB</find>
+      <find>count</find>
+      <find>NN MATCHES</find>
+      <find>_read</find>
+      <find>self.dt.patt</find>
+      <find>seld.dt</find>
+      <find>tmp_</find>
+      <find>tmp</find>
+      <find>in</find>
+      <find>Fern dete</find>
+      <find>dt.bb</find>
+      <find>good_boxes</find>
+      <find>time</find>
+      <find>conf</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/pyOpenTLD/TLD/DetectorCascade.py" />
+        <option value="$PROJECT_DIR$/pyOpenTLD/TLD/TLDUtil.py" />
+        <option value="$PROJECT_DIR$/pyOpenTLD/mftracker/fbtrack.py" />
+        <option value="$PROJECT_DIR$/pyOpenTLD/mftracker/bb.py" />
+        <option value="$PROJECT_DIR$/__init_-.py" />
+        <option value="$PROJECT_DIR$/runTLD.py" />
+        <option value="$PROJECT_DIR$/pyOpenTLD/mftracker/__init__.py" />
+        <option value="$PROJECT_DIR$/pyOpenTLD/__init__.py" />
+        <option value="$PROJECT_DIR$/pyOpenTLD/TLD/__init__.py" />
+        <option value="$PROJECT_DIR$/pyOpenTLD/mftracker/lk.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/src/__init__.py" />
+        <option value="$PROJECT_DIR$/src/parameters.yml" />
+        <option value="$PROJECT_DIR$/src/TempStruct.py" />
+        <option value="$PROJECT_DIR$/src/em_3coin.py" />
+        <option value="$PROJECT_DIR$/src/DetStruct.py" />
+        <option value="$PROJECT_DIR$/src/PatchGenerator.py" />
+        <option value="$PROJECT_DIR$/src/test2.py" />
+        <option value="$PROJECT_DIR$/src/test.py" />
+        <option value="$PROJECT_DIR$/src/tld_utils.py" />
+        <option value="$PROJECT_DIR$/src/LKTracker.py" />
+        <option value="$PROJECT_DIR$/src/demo.py" />
+        <option value="$PROJECT_DIR$/src/FerNNClassifier.py" />
+        <option value="$PROJECT_DIR$/src/run_tld.py" />
+        <option value="$PROJECT_DIR$/src/TLD.py" />
+        <option value="$PROJECT_DIR$/src/Feature.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2603" />
+    <option name="y" value="274" />
+    <option name="width" value="2578" />
+    <option name="height" value="1159" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyAttributeOutsideInitInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TLD-TCN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TLD-TCN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TLD-TCN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TLD-TCN" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\heqin\PycharmProjects\TLD-TCN" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.demo">
+    <configuration name="Feature" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TLD-TCN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Feature.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TLD" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TLD-TCN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/TLD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python">
+      <module name="TLD-TCN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="em_3coin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TLD-TCN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/em_3coin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TLD-TCN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.TLD" />
+      <item itemvalue="Python.em_3coin" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.Feature" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.TLD" />
+        <item itemvalue="Python.Feature" />
+        <item itemvalue="Python.em_3coin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="492bf8be-de23-418d-a128-b6fa729d0f06" name="Default Changelist" comment="" />
+      <created>1547110961369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547110961369</updated>
+    </task>
+    <task id="LOCAL-00001" summary="2019/01/10">
+      <created>1547111784765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547111784765</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2019/01/10">
+      <created>1547112365693</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547112365694</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2019/01/10">
+      <created>1547116815815</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547116815817</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2567" y="110" width="2062" height="1126" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49295774" visible="true" weight="0.15004936" />
+      <window_info id="Structure" order="1" sideWeight="0.5070422" side_tool="true" weight="0.15018587" />
+      <window_info id="Favorites" order="2" sideWeight="0.5070422" side_tool="true" weight="0.15018587" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36449578" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49962825" weight="0.394958" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286517" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50037175" side_tool="true" weight="0.40189445" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2019/01/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/01/10" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/TLD.py</url>
+          <line>486</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/TLD.py</url>
+          <line>516</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/run_tld.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/TLD.py</url>
+          <line>679</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/TLD.py</url>
+          <line>275</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/TLD.py</url>
+          <line>301</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/TLD.py</url>
+          <line>470</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>self.grid</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pyOpenTLD/TLD/DetectionResult.py" />
+    <entry file="file://$PROJECT_DIR$/LICENSE" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/pyOpenTLD/TLD/TLDUtil.py" />
+    <entry file="file://$PROJECT_DIR$/pyOpenTLD/TLD/DetectorCascade.py" />
+    <entry file="file://$PROJECT_DIR$/pyOpenTLD/TLD/Clustering.py" />
+    <entry file="file://$PROJECT_DIR$/pyOpenTLD/mftracker/bb.py" />
+    <entry file="file://$PROJECT_DIR$/pyOpenTLD/mftracker/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/pyOpenTLD/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/pyOpenTLD/TLD/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/pyOpenTLD/mftracker/median.py" />
+    <entry file="file://$PROJECT_DIR$/runTLD.py" />
+    <entry file="file://$PROJECT_DIR$/pyOpenTLD/mftracker/fbtrack.py" />
+    <entry file="file://$PROJECT_DIR$/pyOpenTLD/mftracker/lk.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TempStruct.py" />
+    <entry file="file://$PROJECT_DIR$/src/em_3coin.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1674764123/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="115" column="4" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bounding_boxes.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1674764123/numpy/random/mtrand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1594" column="4" selection-start-line="1594" selection-start-column="4" selection-end-line="1594" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataset/surfer/0001.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PatchGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="57" column="48" lean-forward="true" selection-start-line="57" selection-start-column="48" selection-end-line="57" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DetStruct.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1674764123/cv2/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="8197" column="4" selection-start-line="8197" selection-start-column="4" selection-end-line="8197" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LKTracker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="65" column="16" lean-forward="true" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tld_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#14#24#0" expanded="true" />
+            <marker date="1550471081786" expanded="true" signature="133:136" ph="..." />
+            <marker date="1550471081786" expanded="true" signature="368:371" ph="..." />
+            <marker date="1550471081786" expanded="true" signature="622:623" ph="..." />
+            <marker date="1550471081786" expanded="true" signature="637:640" ph="..." />
+            <marker date="1550471081786" expanded="true" signature="637:1041" ph="..." />
+            <marker date="1550471081786" expanded="true" signature="734:737" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FerNNClassifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="e#14#27#0" expanded="true" />
+            <marker date="1550832827328" expanded="true" signature="428:431" ph="..." />
+            <marker date="1550832827328" expanded="true" signature="485:490" ph="..." />
+            <marker date="1550832827328" expanded="true" signature="907:934" ph="..." />
+            <marker date="1550832827328" expanded="true" signature="961:965" ph="..." />
+            <marker date="1550832827328" expanded="true" signature="2568:2573" ph="..." />
+            <marker date="1550832827328" expanded="true" signature="3413:3418" ph="..." />
+            <marker date="1550832827328" expanded="true" signature="3845:3850" ph="..." />
+            <marker date="1550832827328" expanded="true" signature="6471:6472" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Feature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1550833095357" expanded="true" signature="70:323" ph="..." />
+            <marker date="1550833095357" expanded="true" signature="257:323" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/run_tld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="82" column="16" lean-forward="true" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+          <folding>
+            <element signature="e#14#23#0" expanded="true" />
+            <marker date="1550832937812" expanded="true" signature="129:760" ph="..." />
+            <marker date="1550832937812" expanded="true" signature="157:162" ph="..." />
+            <marker date="1550832937812" expanded="true" signature="521:541" ph="..." />
+            <marker date="1550832937812" expanded="true" signature="563:568" ph="..." />
+            <marker date="1550832937812" expanded="true" signature="781:786" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TLD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9423">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+            <marker date="1550833048795" expanded="true" signature="804:806" ph="..." />
+            <marker date="1550833048795" expanded="true" signature="836:1323" ph="..." />
+            <marker date="1550833048795" expanded="true" signature="1323:1326" ph="..." />
+            <marker date="1550833048795" expanded="true" signature="2462:2467" ph="..." />
+            <marker date="1550833048795" expanded="true" signature="5811:20662" ph="..." />
+            <marker date="1550833048795" expanded="true" signature="7392:20662" ph="..." />
+            <marker date="1550833048795" expanded="true" signature="8895:8900" ph="..." />
+            <marker date="1550833048795" expanded="true" signature="14142:14143" ph="..." />
+            <marker date="1550833048795" expanded="true" signature="14586:14591" ph="..." />
+            <marker date="1550833048795" expanded="true" signature="14586:15711" ph="..." />
+            <marker date="1550833048795" expanded="true" signature="15735:15736" ph="..." />
+            <marker date="1550833048795" expanded="true" signature="18775:18780" ph="..." />
+            <marker date="1550833048795" expanded="true" signature="18775:20662" ph="..." />
+            <marker date="1550833048795" expanded="true" signature="20688:20693" ph="..." />
+            <marker date="1550833048795" expanded="true" signature="20688:21098" ph="..." />
+            <marker date="1550833048795" expanded="true" signature="21216:21221" ph="..." />
+            <marker date="1550833048795" expanded="true" signature="23741:23746" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
