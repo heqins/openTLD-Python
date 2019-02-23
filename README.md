@@ -1,5 +1,4 @@
-# TLD-TCN
-openTLD - Tracking Learning Detection
+#openTLD-Python
 尝试基于https://github.com/arthurv/OpenTLD 写出python版本
 
 2019/02/23
